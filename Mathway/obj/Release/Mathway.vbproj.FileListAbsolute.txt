@@ -1,0 +1,17 @@
+C:\Project VS\Mathway\Mathway\bin\Release\Mathway.exe.config
+C:\Project VS\Mathway\Mathway\bin\Release\Mathway.exe.manifest
+C:\Project VS\Mathway\Mathway\bin\Release\Mathway.application
+C:\Project VS\Mathway\Mathway\bin\Release\Mathway.exe
+C:\Project VS\Mathway\Mathway\bin\Release\Mathway.pdb
+C:\Project VS\Mathway\Mathway\bin\Release\Mathway.xml
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.Dashboard.resources
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.DashboardWelcome.resources
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.Login.resources
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.Resources.resources
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.SplashScreen.resources
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.vbproj.GenerateResource.Cache
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.exe.manifest
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.application
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.exe
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.xml
+C:\Project VS\Mathway\Mathway\obj\Release\Mathway.pdb
